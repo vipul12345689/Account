@@ -2,7 +2,7 @@
 this is a small bankAccoun detailling prectice with oop.
 
 
---------What i was did--------
+--------What i was doing--------
 
 account is abstrect class->
 here i were defined name accountNum and balance.
